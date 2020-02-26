@@ -1,4 +1,4 @@
-# sqlalchemy-challenge
+# Hawaii Climate Analysis
 
 This repository includes an analysis of climate patterns in a popular vacation spot, Honolulu, Hawaii.
 
